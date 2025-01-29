@@ -63,6 +63,8 @@ To provide an in-depth understanding of the tools, platforms, and ecosystems ava
 ---
 
 ### **Popular Blockchain Platforms for Development**
+![Blockchain Platforms](Assets/Blockchain_platforms.jpeg)
+
 
 #### 1. **Ethereum**
 - **Best for:** Smart contracts and dApps.  
@@ -291,6 +293,8 @@ A **blockchain wallet** is a digital tool used to store, send, and receive digit
    - Wallets such as MetaMask allow users to interact with multiple blockchain platforms, from Ethereum to Binance Smart Chain.
 
 #### **Popular Blockchain Wallets**
+![Blockchain Wallets](Assets/Wallets.png)
+
 
 1. **MetaMask**:
    - A widely-used Ethereum wallet that supports Ethereum-based tokens and decentralized applications.
@@ -441,6 +445,9 @@ Understanding and adhering to relevant laws and regulations is critical. This ma
 Blockchain is a rapidly evolving space, so continuous innovation is necessary:
 - **Keeping up with Trends**: Stay informed about new technologies, developments, and tools in the blockchain ecosystem.
 - **Adapting to New Challenges**: Be ready to adapt your system to solve new problems or take advantage of emerging trends.
+
+![Steps for Blockchain development](Assets/Steps_for_blockchain_development.png)
+
 
 #### Conclusion
 Blockchain development is a complex but rewarding process that requires a good understanding of blockchain architecture, smart contracts, consensus mechanisms, security, legal compliance, and community engagement. By following these steps, developers can build scalable, secure, and decentralized applications that solve real-world problems and contribute to the growing blockchain ecosystem. With platforms like **Internet Computer (ICP)**, blockchain development can now enable web-scale, decentralized applications, ushering in a new era for the internet.
