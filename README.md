@@ -13,9 +13,9 @@ To provide an in-depth understanding of the tools, platforms, and ecosystems ava
   - [Core Blockchain Development Tools](#core-blockchain-development-tools)
   - [Programming Languages](#programming-languages)
   - [Blockchain Frameworks](#blockchain-frameworks)
+  - [Blockchain Wallets](#blockchain-wallets)
 - [4. Blockchain Development Stages](#4-blockchain-development-stages)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 # 1. Introduction to Blockchain Development
 
@@ -240,12 +240,12 @@ This table provides a detailed overview of the major programming languages used 
   - Strengths: Browser-based, no installation required, and ideal for learning and prototyping.  
   - Example: Rapidly developing and testing small-scale dApps for the Internet Computer.
  
-### Blockchain Wallets and Their Role in Blockchain Development
+## Blockchain Wallets
 
-#### **What is a Blockchain Wallet?**
-A blockchain wallet is a digital tool used to store, send, and receive digital assets such as cryptocurrencies and tokens. It functions as the interface between users and the blockchain, allowing them to interact securely with decentralized applications (dApps), decentralized finance (DeFi), and non-fungible tokens (NFTs).
+### **What is a Blockchain Wallet?**
+A **blockchain wallet** is a digital tool used to store, send, and receive digital assets such as cryptocurrencies and tokens. It functions as the interface between users and the blockchain, allowing them to interact securely with decentralized applications (dApps), decentralized finance (DeFi), and non-fungible tokens (NFTs).
 
-#### **Types of Blockchain Wallets**
+### **Types of Blockchain Wallets**
 
 1. **Hot Wallets (Software Wallets)**
    - **Description**: These wallets are connected to the internet and are designed for users who need fast access to their funds.
@@ -398,7 +398,7 @@ A blockchain project needs a user interface for interaction. This could be a web
 - Integrating the UI with blockchain using libraries like Web3.js or Ethers.js.
 - ICP offers the advantage of seamlessly integrating decentralized applications (DApps) into the browser via WebAssembly (WASM), improving user experience with fast, browser-based access.
 
-8. Blockchain Network Testing and Optimization
+### 8. Blockchain Network Testing and Optimization
 Testing is a critical step to ensure the blockchain’s functionality, security, and scalability. This step typically includes:
 - **Unit Testing**: Test individual components of the blockchain (e.g., smart contracts).
 - **Integration Testing**: Test how different components of the system work together.
@@ -444,6 +444,18 @@ Blockchain is a rapidly evolving space, so continuous innovation is necessary:
 
 #### Conclusion
 Blockchain development is a complex but rewarding process that requires a good understanding of blockchain architecture, smart contracts, consensus mechanisms, security, legal compliance, and community engagement. By following these steps, developers can build scalable, secure, and decentralized applications that solve real-world problems and contribute to the growing blockchain ecosystem. With platforms like **Internet Computer (ICP)**, blockchain development can now enable web-scale, decentralized applications, ushering in a new era for the internet.
+
+
+
+# N/B: We will specialize in the following key tools and technologies for decentralized application (dApp) development on the Internet Computer (ICP):
+ - **Language:** *Rust*, for building secure and high-performance smart contracts (canisters) on ICP.
+ - **Framework:** *DFINITY SDK*
+ - **Tool:** *dfx*, he official development toolset for deploying and managing canisters on the ICP network.
+ - **Internet Computer Canister Dashboard**
+ - **Web2 Skills**: Front-end development using HTML, CSS, JavaScript, React to integrate with ICP, bridging traditional and decentralized web technologies.
+
+
+Web2 Skills: Front-end development using HTML, CSS, JavaScript, React, or Vue.js to integrate with ICP, bridging traditional and decentralized web technologies.
 
 
 
