@@ -12,7 +12,7 @@ Welcome to the **ICP Club SPU** repository! This is where you'll find all our le
 - [ICP Club Overview](https://gamma.app/docs/Welcome-to-the-ICP-Innovators-Club-3wh62cej0xri67y)  
 
 📂 **Step-by-Step Guides & Tools**  
-- [Setup Guide](Setup-Guide/README.md) → Install tools & set up your environment.  
+- [Setup Guide](https://github.com/PreciousMuemi/ICP-Club-Resources/blob/main/Setup-Guide) → Install tools & set up your environment.  
 - [Internet Identity Guide](Internet-Identity/README-InternetIdentity.md) → Secure authentication on ICP.  
 - [Blockchain Tools & Resources](Blockchain-Tools/README-BlockchainTools.md) → Learn about Web3 development.  
 
